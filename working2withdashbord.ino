@@ -7,8 +7,8 @@
 #include <PubSubClient.h>
 
 // WiFi credentials
-const char* ssid = "SLT-4G-E06721";
-const char* password = "6Q654574TX";
+const char* ssid = "[wifi-SSID]";
+const char* password = "[wifi-Password]";
 
 // MQTT Broker settings
 const char* mqtt_server = "192.168.1.46";
