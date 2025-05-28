@@ -59,8 +59,8 @@ This project implements a step counter and fall detection system using an ESP32 
   ```
 - Update MQTT broker settings:
   ```cpp
-  const char* mqtt_server = "192.168.1.46";
-  const int mqtt_port = 1883;
+  const char* mqtt_server = "[MQTT-server-IP]";
+  const int mqtt_port = [MQTT-server-port-number];
   const char* mqtt_user = "";
   const char* mqtt_password = "";
   ```
