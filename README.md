@@ -1,1 +1,1 @@
-# step-classification-iot-wearable
+# step-counting-iot-wearable
